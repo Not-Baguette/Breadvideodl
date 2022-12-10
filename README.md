@@ -1,5 +1,8 @@
 # Breadvideodl
 
+## Credits
+Credit to fael for making me awesome state-of-the-art icons
+
 ## Description
 A YT video downloader but with a UI, Casually made in less than 1 day so it's slightly wack.
 
