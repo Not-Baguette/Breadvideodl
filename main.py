@@ -227,7 +227,7 @@ class App(customtkinter.CTk):
             print(f"Download Progress: {percent:.2f}%")
             # round it the nearest 5th
             rounded_percent = round(percent / 5) * 5
-            print(f"|{'█' * int(rounded_percent / 5)}{' ' * (20 - int(rounded_percent / 2))}|\n")
+            print(f"|{'█' * int(rounded_percent / 5)}{' ' * (20 - int(rounded_percent / 5))}|\n")
             os.system("\n" * 50)
         except ZeroDivisionError:
             print("ZeroDivisionError")
