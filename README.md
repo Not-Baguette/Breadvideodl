@@ -35,17 +35,17 @@ A YT video downloader but with a UI, Casually made in less than 1 day so it's sl
 - pytube
 
 ## Installation
-For the installation, I suggest downloading the assets contained within the app too else errors would arise. (I'll probably make it that it would be able to run without the assets in the future)
+For the installation, I suggest downloading the assets included with the app too else errors would arise. (I'll probably make it that it would be able to run without the assets in the future)
 
 ### Source code
 - Install Python from [here](https://www.python.org/downloads/)
 - Install the dependencies
-- Install `main.py` and `defaultthumb.py` and put it to a directory (Folder)
-- open `command prompt`
-- go to your directory by `cd` and such
+- Install `main.py` and `defaultthumb.jpg` and put it to a directory (Folder)
+- Open `Command prompt`
+- Go to your directory by `cd` and such
 
 ![image](https://user-images.githubusercontent.com/94969176/206851545-d42b2617-d726-4f53-8ebb-a13672dff883.png)
-- now type `python main.py`
+- Now type `python main.py`
 
 ![image](https://user-images.githubusercontent.com/94969176/206851576-611eeab1-92ca-487b-8c58-07a178126f2a.png)
 - And now you are ready to go!
