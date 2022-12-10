@@ -56,4 +56,7 @@ For the installation, I suggest downloading the assets included with the app too
 ![image](https://user-images.githubusercontent.com/94969176/206851601-a116dee7-2707-411b-9033-e7eaef796909.png)
 
 ### Release
-TBD
+- Pick either `main-no-logo.zip` or `main-logo.zip`, the difference is `main-logo.zip` have a goofy logo on it
+- Download it
+- Unzip it
+- Open `main.exe`
